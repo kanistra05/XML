@@ -1,0 +1,11 @@
+<xml>
+<Title>"The cart icon doesn't update when adding items"</Title>
+<STR>
+    <1>"Go to a product page"</1>
+    <2>"See that the cart icon"</2>
+    <3>"Click 'add to cart' button"</3>
+</STR> 
+  <currentBehaviour>"The cart icon still shows X items but after reload it updates"</currentBehaviour>
+  <expectedBehaviour>"The cart icon shows shows X+1 items immediately"</expectedBehaviour>
+  <logsOrScreenshots>"./bug_crat.log"</logsOrScreenshots>
+  <Reported_by>"Paulo"</Reported_by>
